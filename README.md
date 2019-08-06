@@ -9,7 +9,8 @@ the possible animations can be found in https://owncloud.iac.es/index.php/s/5TmM
 ## Notebook
 A notebook with some examples of simple regressions with
 neural networks and a classification can be found in the repository.
-They use the deep learning package PyTorch for the training.
+They use the deep learning package PyTorch for the training. The notebook
+can also be found on Google Collab on https://bit.ly/2Kh35Kv.
 
 ## Exercises
 You can experiment with the previous notebook to understand
